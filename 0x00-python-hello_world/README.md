@@ -1,5 +1,5 @@
 # 0x00. Python - Hello, World
-instructions:
+Instructions:
 
 Python Scripts : First line of all your files should be exactly #!/usr/bin/python3
 
