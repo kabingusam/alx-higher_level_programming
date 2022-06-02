@@ -6,6 +6,6 @@
 
 <br>
 
-<h1><p align="center">Python programming begins.</h1></p></font>
+<h1><p align="left">Python programming begins.</h1></p></font>
 
 
