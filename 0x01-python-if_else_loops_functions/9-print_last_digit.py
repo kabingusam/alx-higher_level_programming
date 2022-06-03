@@ -3,5 +3,5 @@ def print_last_digit(number):
     '''Use the modulus operator with 10: This gives the remainder when dividing by 10,
      which will always be the last digit (when the number is positive).'''
     #abs() function returns the absolute value of the specified number.
-    print(abs(number) % 10 , end="")
+    print(abs(number) % 10 , end=" ")
     return(abs(number) % 10)
