@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-if _name_ == "_main_":
+if __name__ == "__main__":
     '''add a and b where a =1 and b =2'''
     from add_0 import add
 

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-if _name_ = "_main_":
+if __name__ == "__main__":
     '''print the number and list of arguments.Conditions for 0 and 1 already given'''
     # len is used to give the number of elements of arg.
     import sys

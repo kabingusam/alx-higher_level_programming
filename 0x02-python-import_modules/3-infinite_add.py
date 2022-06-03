@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-if _name_ == "_main_":
+if __name__ == "__main__":
     '''addition of all arguments'''
     import sys
     count = len(sys.argv)
