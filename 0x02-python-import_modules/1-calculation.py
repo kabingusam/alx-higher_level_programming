@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 if _name_ == "_main_":
     '''normal math functions are to be done: add,subtract,muiltply and divide'''
     from calculator_1.py import add,sub,mul,div
