@@ -1,7 +1,8 @@
-#0x04. Python - More Data Structures: Set, Dictionary
+# 0x04. Python - More Data Structures: Set, Dictionary
 ***
 
 ## Table of Contents
+***
 1. [0-square_matrix_simple.py](./0-square_matrix_simple.py)
 2. [1-search_replace.py](./1-search_replace.py)
 3. [2-uniq_add.py](./2-uniq_add.py)
@@ -11,7 +12,7 @@
 7. [6-print_sorted_dictionary.py](./6-print_sorted_dictionary.py)
 8. [7-update_dictionary.py](./7-update_dictionary.py)
 9. [8-simple_delete.py](./8-simple_delete.py)
-10. [8-simple_delete.py](./8-simple_delete.py
+10. [8-simple_delete.py](./8-simple_delete.py)
 11. [9-multiply_by_2.py](./9-multiply_by_2.py)
 12. [10-best_score.py](./10-best_score.py)
 13. [11-multiply_list_map.py](./11-multiply_list_map.py)
@@ -26,6 +27,6 @@
 ***
 0x04. Python - More Data Structures: Set, Dictionary
 
-## helpful links
+### Helpful links
 ***
 ```https://realpython.com/python-sets```
