@@ -16,9 +16,9 @@
 11. [103-magic_class.py](./103-magic_class.py)
 
 ### General Info
-***
+**
 # 0x06. Python - Classes and Objects
 
 ### Helpful links
-***
+**
 ```https://realpython.com/python3-object-oriented-programming/```
