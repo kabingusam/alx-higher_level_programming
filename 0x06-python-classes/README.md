@@ -1,8 +1,8 @@
 # 0x06. Python - Classes and Objects
-**
+
 
 ## Table of Contents
-**
+
 1. [0-square.py](./0-square.py)
 2. [1-square.py](./1-square.py)
 3. [2-square.py](./2-square.py)
@@ -16,9 +16,9 @@
 11. [103-magic_class.py](./103-magic_class.py)
 
 ### General Info
-**
+
 # 0x06. Python - Classes and Objects
 
 ### Helpful links
-**
+
 ```https://realpython.com/python3-object-oriented-programming/```
