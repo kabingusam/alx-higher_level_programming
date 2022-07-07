@@ -19,6 +19,7 @@ class Rectangle:
     def width(self):
         '''get the width of the triangle'''
         return  self.__width
+        
     @width.setter
     def width(self,value):
         if not isinstance(value,int):
@@ -26,6 +27,7 @@ class Rectangle:
         if value < 0:
             raise ValueError("width must be >= 0")
         self.__width = value
+
     @property
     def height(self,value):
         if not isinstance(value,int):
