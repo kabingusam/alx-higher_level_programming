@@ -14,6 +14,7 @@ class Rectangle:
         '''
         self.width = width
         self.height = height
+
     @property
     def width(self):
         """get the width of the reactangle."""
@@ -25,6 +26,7 @@ class Rectangle:
         if value < 0 :
             raise ValueError("width must be >= 0")
         self.__width
+        
     @property
     def height(self):
         """get the height of the rectangle"""
