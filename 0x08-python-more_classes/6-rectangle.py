@@ -11,6 +11,9 @@ class Rectangle:
     height(int) : height of the rectangle
 
     '''
+    number_of_instances = 0
+
+
     @property
     def width(self):
         '''get the width of the rectangle'''
