@@ -21,7 +21,7 @@
 15. [15-answer.txt](./15-answer.txt)
 16. [16-answer.txt](./16-answer.txt)
 17. [17-answer.txt](./17-answer.txt)
-18. [18-answer.txtt](./18-answer.txt
+18. [18-answer.txtt](./18-answer.txt)
 19. [19-copy_list.py](./19-copy_list.py)
 20. [20-answer.txt](./20-answer.txt)
 21. [21-answer.txt](./21-answer.txt)
