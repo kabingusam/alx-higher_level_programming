@@ -1,4 +1,4 @@
-# 0x0B. Python - Input/Output
+# 0x01. Python - if/else, loops, functions
 
 ## Table of Contents
 
@@ -20,4 +20,4 @@
 
 ### General Info
 
-0x0B. Python - Input/Output
+0x01. Python - if/else, loops, functions
