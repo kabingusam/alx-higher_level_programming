@@ -1,2 +1,2 @@
 #!/usr/bin/node
-models.export = class Rectangle{}
+models.exports = class Rectangle{}
