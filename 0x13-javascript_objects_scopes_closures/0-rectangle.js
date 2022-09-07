@@ -1,6 +1,2 @@
-class Rectangle{
-constructor(height, width){
-    this.height;
-    this.width;
-}
-}
+#!/usr/bin/node
+models.export = class Rectangle{}
